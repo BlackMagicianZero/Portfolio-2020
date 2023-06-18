@@ -36,7 +36,7 @@ function Home_Left() {
               style={{ textDecoration: "none", color: "white" }}
               className="home-left-aboutme"
             >
-              My Main Language
+              My GITHUB
             </Link>
           </Button>{" "}
           &nbsp;
