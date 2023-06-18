@@ -28,7 +28,7 @@
     "react-typing-effect": "^2.0.2",
     "styled-components": "^4.4.1"
   },
-  "homepage": "https://BlackMagicianZero.github.io/Portfolio-2020",
+  "homepage": "https://blackmagicianzero.github.io/Portfolio-2020/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -53,6 +53,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^5.0.0"
+    "gh-pages": "^3.2.3"
   }
 }
