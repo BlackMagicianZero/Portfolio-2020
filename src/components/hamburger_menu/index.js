@@ -17,11 +17,11 @@ function Hamburger() {
                 <Link to="/home">HOME</Link>
               </li>
               <li>
-                <Link to="/about">ABOUT</Link>
+                <Link to="/about">GIT</Link>
               </li>
               <li>
                 <a href="https://www.instagram.com/6ix_twlv/" target="_blank">
-                  INSTA
+                  INSTAGRAM
                 </a>
               </li>
               <li>
